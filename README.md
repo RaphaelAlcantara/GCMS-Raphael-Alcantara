@@ -1,2 +1,6 @@
-# GCMS-Raphael-Alcantara
-Atividade da faculdade IFPE da cadeira de gerencia de configuração e mudança de software
+# GCMS-2022-1
+Repositório da disciplina de GCMS do IFPE-Recife para o semestre 2022.1.
+
+## Colaboradores
+Coloque seu nome abaixo se você é um dos colaboradores do repositório:
+* Raphael Alcântara (dono, )
